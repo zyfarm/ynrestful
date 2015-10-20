@@ -1,0 +1,12 @@
+MySQL-python
+Markdown
+pip
+simplejson
+falcon
+sqlalchemy
+nose
+gunicorn
+msgpack-python
+talons
+jsonpickle
+redis
